@@ -1,5 +1,6 @@
 makecode:
-  home_url: https://makecode.microbit.org/
+  home_url: https://makecode.microbit.org/  
+title: "Kitronik Halo HD"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: false
