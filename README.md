@@ -20,6 +20,7 @@ let haloDisplay = kitronik_halo_hd.createZIPHaloDisplay(60)
 
 Show colour block will set all the ZIP LED's to the same colour
 ```blocks
+let haloDisplay: kitronik_halo_hd.ZIPHaloHd = null
 haloDisplay.showColor(kitronik_halo_hd.colors(ZipLedColors.Red))
 ```
 
