@@ -5,6 +5,8 @@
 Blocks that support [Kitronik kits and shields for the micro:bit](https://www.kitronik.co.uk/microbit.html)
 This package is for the [Kitronik :VIEW Halo HD](https://www.kitronik.co.uk/5672)
 
+Full documentation is available at [microbit-mark.github.io/pxt-kitronik-halohd/](https://microbit-mark.github.io/pxt-kitronik-halohd/)
+
 # HaloHD Blocks
 Set buzzer pin block is to change to default music pin to allocated pin on the Halo HD board
 ```blocks
